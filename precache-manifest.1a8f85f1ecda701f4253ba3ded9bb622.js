@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1c9598b082d2c0148379f9597b12b6d",
+    "revision": "ae56711e2e9801e4c4868e56dd960811",
     "url": "/zenyoga/index.html"
   },
   {
-    "revision": "084e2ff7b688b5d60bc1",
+    "revision": "f4684c4bf29cb8e5886e",
     "url": "/zenyoga/static/css/2.1db875ac.chunk.css"
   },
   {
-    "revision": "adf2990a40b4f12f2d24",
+    "revision": "a5f22c3fd368711358e1",
     "url": "/zenyoga/static/css/main.5cc1b7e5.chunk.css"
   },
   {
-    "revision": "084e2ff7b688b5d60bc1",
-    "url": "/zenyoga/static/js/2.f534fbce.chunk.js"
+    "revision": "f4684c4bf29cb8e5886e",
+    "url": "/zenyoga/static/js/2.9fd43874.chunk.js"
   },
   {
     "revision": "06b0512c23e5f6b6c895995c94ae47cd",
-    "url": "/zenyoga/static/js/2.f534fbce.chunk.js.LICENSE.txt"
+    "url": "/zenyoga/static/js/2.9fd43874.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "adf2990a40b4f12f2d24",
-    "url": "/zenyoga/static/js/main.447394fb.chunk.js"
+    "revision": "a5f22c3fd368711358e1",
+    "url": "/zenyoga/static/js/main.0a534d28.chunk.js"
   },
   {
     "revision": "314d08b8f28dea8bced9",
