@@ -16,7 +16,7 @@ const FeaturesSection = (props) => {
           {feature.content}
         </Feature>
       ))}
-      <Button>Explore More</Button>
+      <Button color="secondary">Explore More</Button>
     </Section>
   );
 };

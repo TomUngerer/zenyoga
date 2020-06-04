@@ -7,19 +7,22 @@ const data = {
       id: 1,
       title: "New classes every week",
       icon: "",
-      content: "",
+      content:
+        "Discover hundreds of classes in our library. Save your favorites. Try new styles and customize your routine to fit your schedule.",
     },
     {
       id: 2,
       title: "Series",
       icon: "",
-      content: "",
+      content:
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     },
     {
       id: 3,
       title: "Pose directory",
       icon: "",
-      content: "",
+      content:
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     },
   ],
   classes: [

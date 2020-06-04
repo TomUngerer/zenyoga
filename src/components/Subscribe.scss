@@ -1,0 +1,14 @@
+.subscribe-form {
+  .uk-input {
+    border-top-left-radius: 500px;
+    border-bottom-left-radius: 500px;
+    padding-left: 20px;
+  }
+
+  .uk-button {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 500px;
+    border-bottom-right-radius: 500px;
+  }
+}

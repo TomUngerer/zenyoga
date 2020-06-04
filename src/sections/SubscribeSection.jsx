@@ -8,7 +8,7 @@ const SubsrcibeSection = props => {
     <Section
       title="Subscribe to our newsletter"
       lead="Exlusive access to my monthly Spotify playlist"
-      className="uk-text-center"
+      className="uk-text-center uk-section-large"
     >
       <Subscribe />
     </Section>

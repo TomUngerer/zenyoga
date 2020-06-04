@@ -1,4 +1,6 @@
-import React from "react";
+import React from "react"
+
+import './Section.scss'
 
 const Section = (props) => {
   const container =
@@ -9,7 +11,10 @@ const Section = (props) => {
       : `uk-container uk-container-${props.container}`;
   
   return (
-    <section className={`uk-section ${props.className}`} id={props.id}>
+    <section
+      className={`uk-section${props.className ? " " + props.className : ""}`}
+      id={props.id}
+    >
       <header className="section-header">
         <div className="uk-container">
           <h2>{props.title}</h2>
@@ -18,9 +23,7 @@ const Section = (props) => {
         </div>
       </header>
       <main>
-        <div className={container}>
-          {props.children}
-        </div>
+        <div className={container}>{props.children}</div>
       </main>
     </section>
   );

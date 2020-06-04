@@ -20,7 +20,7 @@ const Home = props => {
           cupiditate.
         </p>
         <p>
-          <Button>Get Started</Button>
+          <Button color="secondary">Get Started</Button>{" "}
           <Button>Enroll Class</Button>
         </p>
       </Hero>

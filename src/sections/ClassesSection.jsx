@@ -6,11 +6,15 @@ import Class from "../components/Class";
 
 const ClassesSection = (props) => {
   return (
-    <Section title="Check out some of our classes" id="classes" container="full">
+    <Section
+      title="Check out some of our classes"
+      id="classes"
+      container="full"
+    >
       {props.classes.map((item) => (
         <Class key={`class_${item.id}`} title={item.title} />
       ))}
-      <Button>See all available classes</Button>
+      <Button color="secondary">See all available classes</Button>
     </Section>
   );
 };
