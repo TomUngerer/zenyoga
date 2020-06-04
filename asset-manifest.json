@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/zenyoga/static/css/main.5cc1b7e5.chunk.css",
+    "main.js": "/zenyoga/static/js/main.447394fb.chunk.js",
+    "main.js.map": "/zenyoga/static/js/main.447394fb.chunk.js.map",
+    "runtime-main.js": "/zenyoga/static/js/runtime-main.84c65d18.js",
+    "runtime-main.js.map": "/zenyoga/static/js/runtime-main.84c65d18.js.map",
+    "static/css/2.1db875ac.chunk.css": "/zenyoga/static/css/2.1db875ac.chunk.css",
+    "static/js/2.f534fbce.chunk.js": "/zenyoga/static/js/2.f534fbce.chunk.js",
+    "static/js/2.f534fbce.chunk.js.map": "/zenyoga/static/js/2.f534fbce.chunk.js.map",
+    "index.html": "/zenyoga/index.html",
+    "precache-manifest.ec0dcded853b1d49ff25a432416f4618.js": "/zenyoga/precache-manifest.ec0dcded853b1d49ff25a432416f4618.js",
+    "service-worker.js": "/zenyoga/service-worker.js",
+    "static/css/2.1db875ac.chunk.css.map": "/zenyoga/static/css/2.1db875ac.chunk.css.map",
+    "static/css/main.5cc1b7e5.chunk.css.map": "/zenyoga/static/css/main.5cc1b7e5.chunk.css.map",
+    "static/js/2.f534fbce.chunk.js.LICENSE.txt": "/zenyoga/static/js/2.f534fbce.chunk.js.LICENSE.txt",
+    "static/media/placeholder.jpg": "/zenyoga/static/media/placeholder.0d3e3ff4.jpg",
+    "static/media/placeholder2.jpg": "/zenyoga/static/media/placeholder2.06ef3b92.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84c65d18.js",
+    "static/css/2.1db875ac.chunk.css",
+    "static/js/2.f534fbce.chunk.js",
+    "static/css/main.5cc1b7e5.chunk.css",
+    "static/js/main.447394fb.chunk.js"
+  ]
+}
