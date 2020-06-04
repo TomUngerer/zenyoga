@@ -1,3 +1,6 @@
+import imagePlaceholder from '../assets/placeholder.jpg'
+import imagePlaceholder2 from '../assets/placeholder2.jpg'
+
 const data = {
   features: [
     {
@@ -52,6 +55,56 @@ const data = {
       category: "",
       exerpt: "",
       level: "",
+    },
+  ],
+  services: [
+    {
+      id: 1,
+      image: {
+        url: imagePlaceholder,
+      },
+      title: "Beginner",
+      excerpt: "",
+    },
+    {
+      id: 2,
+      image: {
+        url: imagePlaceholder2,
+      },
+      title: "Meditation",
+      excerpt: "",
+    },
+    {
+      id: 3,
+      image: {
+        url: imagePlaceholder,
+      },
+      title: "Energy Balancing",
+      excerpt: "",
+    },
+    {
+      id: 4,
+      image: {
+        url: imagePlaceholder,
+      },
+      title: "Weight Loss",
+      excerpt: "",
+    },
+    {
+      id: 5,
+      image: {
+        url: imagePlaceholder,
+      },
+      title: "Recovery",
+      excerpt: "",
+    },
+    {
+      id: 6,
+      image: {
+        url: imagePlaceholder,
+      },
+      title: "All Levels",
+      excerpt: "",
     },
   ],
 };

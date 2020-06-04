@@ -5,7 +5,12 @@ import './index.scss'
 import App from './containers/App'
 import * as serviceWorker from './serviceWorker'
 
+import UIkit from "uikit"
+import Icons from "uikit/dist/js/uikit-icons"
+
 import data from './assets/data'
+
+UIkit.use(Icons)
 
 ReactDOM.render(
   <React.StrictMode>
