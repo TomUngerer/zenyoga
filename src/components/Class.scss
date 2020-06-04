@@ -1,0 +1,9 @@
+.class{
+  text-align: left;
+  & > div {
+    border-radius: 20px;
+  }
+  header{
+    padding: 1rem;
+  }
+}

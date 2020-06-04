@@ -1,15 +1,17 @@
 import React from 'react'
 
-const Feature = props => {
+import './Feature.scss'
+
+const Feature = ({ feature, children }) => {
+  const { icon, title, content } = feature
   return (
     <div className="feature">
-      <div>
-        <div className="icon">{props.icon}</div>
-      </div>
-      <div>
-        <h3 className="title">{props.title}</h3>
-        <div className="content">{props.children}</div>
-      </div>
+      <h3 className="title">{title}</h3>
+      <div className="content">{children}</div>
+      <div
+        className="icon uk-box-shadow-small"
+        style={{ backgroundImage: `url(${icon})` }}
+      />
     </div>
   );
 }

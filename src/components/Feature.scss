@@ -1,0 +1,19 @@
+.feature{
+  padding-left: 80px;
+  position: relative;
+  max-width: 350px;
+  margin-bottom: 2rem;
+  text-align: left;
+  .icon{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: grey center/cover no-repeat;
+    border-radius: 50%;
+  }
+  .title{
+    margin-bottom: .5rem;
+  }
+}

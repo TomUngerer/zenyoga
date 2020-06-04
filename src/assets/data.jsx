@@ -6,21 +6,21 @@ const data = {
     {
       id: 1,
       title: "New classes every week",
-      icon: "",
+      icon: imagePlaceholder,
       content:
         "Discover hundreds of classes in our library. Save your favorites. Try new styles and customize your routine to fit your schedule.",
     },
     {
       id: 2,
       title: "Series",
-      icon: "",
+      icon: imagePlaceholder,
       content:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     },
     {
       id: 3,
       title: "Pose directory",
-      icon: "",
+      icon: imagePlaceholder,
       content:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     },
@@ -30,34 +30,45 @@ const data = {
       id: 1,
       title: "Healthy happy hour",
       video: {
-        url: "",
-        duration: "",
+        url: imagePlaceholder,
+        duration: "45min",
       },
-      category: "",
-      exerpt: "",
-      level: "",
+      category: "Meditation",
+      excerpt: "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+      level: 2,
     },
     {
       id: 2,
       title: "Strong sweaty flow",
       video: {
-        url: "",
-        duration: "",
+        url: imagePlaceholder,
+        duration: "60min",
       },
-      category: "",
+      category: "Weight Loss",
       exerpt: "",
-      level: "",
+      level: 1,
     },
     {
       id: 3,
       title: "Core flow",
       video: {
-        url: "",
-        duration: "",
+        url: imagePlaceholder,
+        duration: "60min",
       },
-      category: "",
+      category: "Meditation",
       exerpt: "",
-      level: "",
+      level: 3,
+    },
+    {
+      id: 4,
+      title: "Core flow",
+      video: {
+        url: imagePlaceholder,
+        duration: "120min",
+      },
+      category: "Meditation",
+      exerpt: "",
+      level: 2,
     },
   ],
   services: [

@@ -9,7 +9,7 @@ const ServicesSection = (props) => {
       title="Our yoga services"
       id="services"
       lead="Lorem ipsum dolor sit amet consectetur adipisicing elit."
-      className="uk-text-center"
+      className="uk-text-center uk-section-large"
       container="small"
     >
       <div className="uk-grid-collapse" data-uk-grid>
